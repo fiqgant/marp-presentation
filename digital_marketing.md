@@ -4,7 +4,6 @@ theme: uncover
 class: invert
 paginate: true
 _paginate: false
-header: Taufiqurrahman
 footer: 'taufiq@wbi.ac.id | 2024 | https://fiqgant.github.io'
 _footer: 'taufiq@wbi.ac.id | 2024 | https://fiqgant.github.io'
 ---
